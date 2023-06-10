@@ -111,8 +111,9 @@ body {
 
 .dispositivos__lista {
 	display: flex;
-	list-style-type: none;
-	margin: 5em 0;
+   	justify-content: center;
+    	list-style-type: none;
+    	margin: 5em 0;
 }
 
 .rodape {
